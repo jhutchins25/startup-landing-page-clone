@@ -54,7 +54,7 @@ h1,h2,h3,h4,h5,h6{
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 41.5rem;
+    height: 45.938rem;
 	overflow: auto;}
 
 
@@ -88,6 +88,18 @@ h1,h2,h3,h4,h5,h6{
 	margin-top: 1.25rem;
 	font-size: 1.563rem;
 }
+
+.cases {
+	padding-bottom: 5em;
+
+}
+hr {
+	width: 55em;
+	height:1px;
+	color: lightgray;
+	background-color: lightgray;
+	border: 0 none;
+}
 .cases h2 {
 	
 	text-align: center;
@@ -107,4 +119,35 @@ h1,h2,h3,h4,h5,h6{
 .cases img {
 	height: 7em;
 
+}
+
+footer {
+	text-align: center;
+	padding-bottom: 7em;
+}
+
+.fa-twitter{
+	color: #55acee;
+	
+}
+.fa-facebook{
+	color:#4c66a4;
+}
+.fa-instagram{
+	color: #3f729b;
+}
+.fa-circle-thin {
+	
+	color: lightgrey;
+	
+}
+.icons > li{
+	display: inline-block;
+	border: 1px solid;
+	border-radius: 1.25rem;
+	border-color: lightgray;
+	width: 2.5rem;
+	padding: 0.625rem 0;
+	cursor: pointer;
+	
 }
